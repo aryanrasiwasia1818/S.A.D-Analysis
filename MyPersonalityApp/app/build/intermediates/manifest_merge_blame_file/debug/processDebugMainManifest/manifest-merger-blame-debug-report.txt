@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mypersonalityapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <!-- ✅ Required to allow network requests -->
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:6:5-66
+12-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:6:22-64
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/99f631ac21f8f84f0be8864d0aabbc79/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+15        android:name="com.example.mypersonalityapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/99f631ac21f8f84f0be8864d0aabbc79/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/99f631ac21f8f84f0be8864d0aabbc79/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.example.mypersonalityapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/99f631ac21f8f84f0be8864d0aabbc79/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/99f631ac21f8f84f0be8864d0aabbc79/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:8:5-29:19
+21        android:allowBackup="true"
+21-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:9:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/99f631ac21f8f84f0be8864d0aabbc79/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:11:9-43
+26        android:label="MyPersonalityApp"
+26-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:10:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:12:9-54
+28        android:supportsRtl="true"
+28-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:13:9-35
+29        android:testOnly="true"
+30        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+30-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:14:9-65
+31        <activity
+31-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:16:9-73
+32            android:name="com.example.mypersonalityapp.ChatActivity"
+32-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:16:19-47
+33            android:exported="true" />
+33-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:16:48-71
+34        <activity
+34-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:17:9-76
+35            android:name="com.example.mypersonalityapp.ResultActivity"
+35-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:17:19-49
+36            android:exported="true" />
+36-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:17:50-73
+37        <activity
+37-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:18:9-74
+38            android:name="com.example.mypersonalityapp.QuizActivity"
+38-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:18:19-47
+39            android:exported="true" />
+39-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:18:48-71
+40        <activity
+40-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:19:9-76
+41            android:name="com.example.mypersonalityapp.SignUpActivity"
+41-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:19:19-49
+42            android:exported="true" />
+42-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:19:50-73
+43        <activity
+43-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:20:9-25:20
+44            android:name="com.example.mypersonalityapp.LoginActivity"
+44-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:20:19-48
+45            android:exported="true" >
+45-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:20:49-72
+46            <intent-filter>
+46-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:21:13-24:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:22:17-69
+47-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:22:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:23:17-77
+49-->/Users/aryanrasiwasia/Downloads/MyPersonalityApp/app/src/main/AndroidManifest.xml:23:27-74
+50            </intent-filter>
+51        </activity>
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.2.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/ff6126bfd0b4bff6610cfb365a214830/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.2.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/ff6126bfd0b4bff6610cfb365a214830/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+55            android:authorities="com.example.mypersonalityapp.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.2.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/ff6126bfd0b4bff6610cfb365a214830/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.2.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/ff6126bfd0b4bff6610cfb365a214830/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.2.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/ff6126bfd0b4bff6610cfb365a214830/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.2.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/ff6126bfd0b4bff6610cfb365a214830/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.2.0] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/ff6126bfd0b4bff6610cfb365a214830/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/e03b9674007d767ae85ebfc997a0facd/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/e03b9674007d767ae85ebfc997a0facd/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/aryanrasiwasia/.gradle/caches/8.11.1/transforms/e03b9674007d767ae85ebfc997a0facd/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+63        </provider>
+64    </application>
+65
+66</manifest>

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/layout_activity_chat.xml.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mypersonalityapp-debug-21:/layout_activity_chat.xml.flat",
+        "source": "com.example.mypersonalityapp-main-23:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/layout_activity_result.xml.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/layout/activity_result.xml"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/layout_activity_quiz.xml.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/layout_activity_login.xml.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-pngs-17:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-debug-21:/layout_activity_signup.xml.flat",
+        "source": "/Users/aryanrasiwasia/.gradle/daemon/8.11.1/com.example.mypersonalityapp-main-23:/layout/activity_signup.xml"
+    }
+]
